@@ -90,7 +90,7 @@ git push -f origin master
 // 创建testing分支
 git branch testing
 // 查看所有分支
-git branch -v
+git branch -a
 // 切换到testing分支
 git checkout testing
 // 切换到master分支
